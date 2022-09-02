@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2a05924c5cad4d41abb119af12068ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 15
   countText: {fileID: 1310562334}
   winTextObject: {fileID: 1764558717}
   loseTextObject: {fileID: 239030903}
@@ -298,7 +298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 40817681}
   timerText: {fileID: 995405776}
-  time: 30
+  time: 15
 --- !u!1001 &44149506
 PrefabInstance:
   m_ObjectHideFlags: 0
